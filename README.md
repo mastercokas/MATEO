@@ -12,6 +12,6 @@
         <p>me encanta pasar tiempo con ella, es muy divertida y me hace reir mucho,</p>
         <p>es una persona muy inteligente y siempre me ayuda con mis tareas, es una gran enamorada y me encanta estar con ella y 
         espero poder estar con ella por mucho tiempo.</p>
-          <p>Linkedin =  <a href="https://www.linkedin.com/in/mateo-gutierrez-larrea-7b0a1b1b4/">Mateo Gutierrez Larrea</a> </p>
+          <p>Linkedin =  <a href="https://www.linkedin.com/in/mateo-gutiérrez-larrea-253736419/">Mateo Gutierrez Larrea</a> </p>
     </body>
 </html>
